@@ -1,0 +1,5942 @@
+[
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685029",
+    "station_name": "莘庄",
+    "longitude": 121.385373,
+    "latitude": 31.111152,
+    "poi_id": "BV10025001",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685028",
+    "station_name": "外环路",
+    "longitude": 121.39302,
+    "latitude": 31.120899,
+    "poi_id": "BV10039895",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685027",
+    "station_name": "莲花路",
+    "longitude": 121.40291,
+    "latitude": 31.1309,
+    "poi_id": "BV10026897",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685026",
+    "station_name": "锦江乐园",
+    "longitude": 121.414107,
+    "latitude": 31.142217,
+    "poi_id": "BV10026582",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685025",
+    "station_name": "上海南站",
+    "longitude": 121.430041,
+    "latitude": 31.154579,
+    "poi_id": "BV10025073",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685024",
+    "station_name": "漕宝路",
+    "longitude": 121.433143,
+    "latitude": 31.168344,
+    "poi_id": "BV10026584",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685023",
+    "station_name": "上海体育馆",
+    "longitude": 121.437423,
+    "latitude": 31.182813,
+    "poi_id": "BV10026004",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100024518023",
+    "station_name": "徐家汇",
+    "longitude": 121.436603,
+    "latitude": 31.195514,
+    "poi_id": "BV10029707",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685021",
+    "station_name": "衡山路",
+    "longitude": 121.446424,
+    "latitude": 31.204528,
+    "poi_id": "BV10039894",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100024542015",
+    "station_name": "常熟路",
+    "longitude": 121.449141,
+    "latitude": 31.213524,
+    "poi_id": "BV10039862",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685019",
+    "station_name": "陕西南路",
+    "longitude": 121.458741,
+    "latitude": 31.215148,
+    "poi_id": "BV10039893",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685018",
+    "station_name": "一大会址·黄陂南路",
+    "longitude": 121.472904,
+    "latitude": 31.223898,
+    "poi_id": "BV10039892",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685017",
+    "station_name": "人民广场",
+    "longitude": 121.475108,
+    "latitude": 31.232687,
+    "poi_id": "BV10024678",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685016",
+    "station_name": "新闸路",
+    "longitude": 121.468151,
+    "latitude": 31.238373,
+    "poi_id": "BV10039891",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100024524019",
+    "station_name": "汉中路",
+    "longitude": 121.458699,
+    "latitude": 31.241883,
+    "poi_id": "BV10030213",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685014",
+    "station_name": "上海火车站",
+    "longitude": 121.457939,
+    "latitude": 31.249632,
+    "poi_id": "BV10024601",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685013",
+    "station_name": "中山北路",
+    "longitude": 121.459204,
+    "latitude": 31.258891,
+    "poi_id": "BV10024692",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685012",
+    "station_name": "延长路",
+    "longitude": 121.455329,
+    "latitude": 31.271675,
+    "poi_id": "BV10039890",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685011",
+    "station_name": "上海马戏城",
+    "longitude": 121.452023,
+    "latitude": 31.279895,
+    "poi_id": "BV10039889",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685010",
+    "station_name": "汶水路",
+    "longitude": 121.450251,
+    "latitude": 31.292556,
+    "poi_id": "BV10030431",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685009",
+    "station_name": "彭浦新村",
+    "longitude": 121.448642,
+    "latitude": 31.306604,
+    "poi_id": "BV10025089",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685008",
+    "station_name": "共康路",
+    "longitude": 121.447063,
+    "latitude": 31.318936,
+    "poi_id": "BV10030759",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685007",
+    "station_name": "通河新村",
+    "longitude": 121.441546,
+    "latitude": 31.33113,
+    "poi_id": "BV10031109",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685006",
+    "station_name": "呼兰路",
+    "longitude": 121.437711,
+    "latitude": 31.339703,
+    "poi_id": "BV10029799",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685005",
+    "station_name": "共富新村",
+    "longitude": 121.434063,
+    "latitude": 31.355082,
+    "poi_id": "BV10039888",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685004",
+    "station_name": "宝安公路",
+    "longitude": 121.430914,
+    "latitude": 31.369555,
+    "poi_id": "BV10039887",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685003",
+    "station_name": "友谊西路",
+    "longitude": 121.427953,
+    "latitude": 31.381296,
+    "poi_id": "BV10039886",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025685",
+    "line_name": "1号线",
+    "station_id": "310100025685002",
+    "station_name": "富锦路",
+    "longitude": 121.424661,
+    "latitude": 31.39226,
+    "poi_id": "BV10039885",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693024",
+    "station_name": "浦东1号2号航站楼",
+    "longitude": 121.805591,
+    "latitude": 31.150958,
+    "poi_id": "BV09301412",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693025",
+    "station_name": "海天三路",
+    "longitude": 121.796878,
+    "latitude": 31.168459,
+    "poi_id": "BV11277588",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693026",
+    "station_name": "远东大道",
+    "longitude": 121.755301,
+    "latitude": 31.199385,
+    "poi_id": "BV11277594",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693027",
+    "station_name": "凌空路",
+    "longitude": 121.724095,
+    "latitude": 31.192861,
+    "poi_id": "BV11277591",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693028",
+    "station_name": "川沙",
+    "longitude": 121.69821,
+    "latitude": 31.186741,
+    "poi_id": "BV11277593",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693029",
+    "station_name": "华夏东路",
+    "longitude": 121.680972,
+    "latitude": 31.196575,
+    "poi_id": "BV11277589",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693030",
+    "station_name": "创新中路",
+    "longitude": 121.673713,
+    "latitude": 31.213871,
+    "poi_id": "BV11277592",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693031",
+    "station_name": "唐镇",
+    "longitude": 121.656269,
+    "latitude": 31.214107,
+    "poi_id": "BV11277590",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693002",
+    "station_name": "广兰路",
+    "longitude": 121.621072,
+    "latitude": 31.21105,
+    "poi_id": "BV10039819",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693003",
+    "station_name": "金科路",
+    "longitude": 121.601989,
+    "latitude": 31.204213,
+    "poi_id": "BV10039896",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693004",
+    "station_name": "张江高科",
+    "longitude": 121.58749,
+    "latitude": 31.201872,
+    "poi_id": "BV10039897",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100024526014",
+    "station_name": "龙阳路",
+    "longitude": 121.557634,
+    "latitude": 31.203575,
+    "poi_id": "BV10039851",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693006",
+    "station_name": "世纪公园",
+    "longitude": 121.550909,
+    "latitude": 31.209421,
+    "poi_id": "BV10032793",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693007",
+    "station_name": "上海科技馆",
+    "longitude": 121.544439,
+    "latitude": 31.21882,
+    "poi_id": "BV10031164",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100024540013",
+    "station_name": "世纪大道",
+    "longitude": 121.527213,
+    "latitude": 31.228682,
+    "poi_id": "BV10039835",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693009",
+    "station_name": "浦东南路(原东昌路)",
+    "longitude": 121.515556,
+    "latitude": 31.23327,
+    "poi_id": "BV09335357",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693010",
+    "station_name": "陆家嘴",
+    "longitude": 121.502129,
+    "latitude": 31.238259,
+    "poi_id": "BV10029743",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693011",
+    "station_name": "南京东路",
+    "longitude": 121.484628,
+    "latitude": 31.238101,
+    "poi_id": "BV10039900",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025685017",
+    "station_name": "人民广场",
+    "longitude": 121.475108,
+    "latitude": 31.232687,
+    "poi_id": "BV10024678",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100024524017",
+    "station_name": "南京西路",
+    "longitude": 121.459971,
+    "latitude": 31.229853,
+    "poi_id": "BV10039782",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100024542016",
+    "station_name": "静安寺",
+    "longitude": 121.446533,
+    "latitude": 31.223231,
+    "poi_id": "BV10025485",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100024518021",
+    "station_name": "江苏路",
+    "longitude": 121.430642,
+    "latitude": 31.220411,
+    "poi_id": "BV10039805",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693016",
+    "station_name": "中山公园",
+    "longitude": 121.415773,
+    "latitude": 31.217948,
+    "poi_id": "BV10025398",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693017",
+    "station_name": "娄山关路",
+    "longitude": 121.404058,
+    "latitude": 31.211158,
+    "poi_id": "BV10039901",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693018",
+    "station_name": "威宁路",
+    "longitude": 121.387285,
+    "latitude": 31.21487,
+    "poi_id": "BV10039902",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693019",
+    "station_name": "北新泾",
+    "longitude": 121.373998,
+    "latitude": 31.216395,
+    "poi_id": "BV10030316",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693020",
+    "station_name": "淞虹路",
+    "longitude": 121.359536,
+    "latitude": 31.218225,
+    "poi_id": "BV10039903",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693021",
+    "station_name": "虹桥2号航站楼",
+    "longitude": 121.324443,
+    "latitude": 31.194055,
+    "poi_id": "BV10039904",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693022",
+    "station_name": "虹桥火车站",
+    "longitude": 121.31895,
+    "latitude": 31.194022,
+    "poi_id": "BV10039905",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025693",
+    "line_name": "2号线",
+    "station_id": "310100025693023",
+    "station_name": "国家会展中心(2号线)",
+    "longitude": 121.299204,
+    "latitude": 31.188367,
+    "poi_id": "BV09334324",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534002",
+    "station_name": "江杨北路",
+    "longitude": 121.439819,
+    "latitude": 31.407858,
+    "poi_id": "BV10039981",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534003",
+    "station_name": "铁力路",
+    "longitude": 121.461139,
+    "latitude": 31.40812,
+    "poi_id": "BV10039982",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534004",
+    "station_name": "友谊路",
+    "longitude": 121.475924,
+    "latitude": 31.404016,
+    "poi_id": "BV10039983",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534005",
+    "station_name": "宝杨路",
+    "longitude": 121.479574,
+    "latitude": 31.395315,
+    "poi_id": "BV10026163",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534006",
+    "station_name": "水产路",
+    "longitude": 121.488247,
+    "latitude": 31.381302,
+    "poi_id": "BV10039984",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534007",
+    "station_name": "淞滨路",
+    "longitude": 121.492818,
+    "latitude": 31.370928,
+    "poi_id": "BV10026162",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534008",
+    "station_name": "张华浜",
+    "longitude": 121.498671,
+    "latitude": 31.358016,
+    "poi_id": "BV10029541",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534009",
+    "station_name": "淞发路",
+    "longitude": 121.50039,
+    "latitude": 31.345135,
+    "poi_id": "BV10039985",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534010",
+    "station_name": "长江南路",
+    "longitude": 121.491482,
+    "latitude": 31.332062,
+    "poi_id": "BV10039986",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534011",
+    "station_name": "殷高西路",
+    "longitude": 121.484856,
+    "latitude": 31.320005,
+    "poi_id": "BV10039987",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534012",
+    "station_name": "江湾镇",
+    "longitude": 121.485064,
+    "latitude": 31.305566,
+    "poi_id": "BV10026161",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534013",
+    "station_name": "大柏树",
+    "longitude": 121.483216,
+    "latitude": 31.289433,
+    "poi_id": "BV10030068",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534014",
+    "station_name": "赤峰路",
+    "longitude": 121.482429,
+    "latitude": 31.281247,
+    "poi_id": "BV10039988",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100025709012",
+    "station_name": "虹口足球场",
+    "longitude": 121.479154,
+    "latitude": 31.271392,
+    "poi_id": "BV10024871",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534016",
+    "station_name": "东宝兴路",
+    "longitude": 121.480202,
+    "latitude": 31.259886,
+    "poi_id": "BV10039989",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534017",
+    "station_name": "宝山路",
+    "longitude": 121.476298,
+    "latitude": 31.251523,
+    "poi_id": "BV10039990",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100025685014",
+    "station_name": "上海火车站",
+    "longitude": 121.457939,
+    "latitude": 31.249632,
+    "poi_id": "BV10024601",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534019",
+    "station_name": "中潭路",
+    "longitude": 121.441001,
+    "latitude": 31.254568,
+    "poi_id": "BV10039991",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100024542019",
+    "station_name": "镇坪路",
+    "longitude": 121.429779,
+    "latitude": 31.246369,
+    "poi_id": "BV10039864",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100024518019",
+    "station_name": "曹杨路",
+    "longitude": 121.417701,
+    "latitude": 31.239302,
+    "poi_id": "BV10039804",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100024524002",
+    "station_name": "金沙江路",
+    "longitude": 121.413201,
+    "latitude": 31.232147,
+    "poi_id": "BV10039776",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100025693016",
+    "station_name": "中山公园",
+    "longitude": 121.415773,
+    "latitude": 31.217948,
+    "poi_id": "BV10025398",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534024",
+    "station_name": "延安西路",
+    "longitude": 121.417062,
+    "latitude": 31.209616,
+    "poi_id": "BV10039992",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100027703009",
+    "station_name": "虹桥路",
+    "longitude": 121.420814,
+    "latitude": 31.197524,
+    "poi_id": "BV10039972",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100024546017",
+    "station_name": "宜山路",
+    "longitude": 121.427194,
+    "latitude": 31.186717,
+    "poi_id": "BV10039880",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534027",
+    "station_name": "漕溪路",
+    "longitude": 121.43841,
+    "latitude": 31.176746,
+    "poi_id": "BV10039993",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100025711025",
+    "station_name": "龙漕路",
+    "longitude": 121.444383,
+    "latitude": 31.169458,
+    "poi_id": "BV10039938",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100034534029",
+    "station_name": "石龙路",
+    "longitude": 121.443205,
+    "latitude": 31.157949,
+    "poi_id": "BV10039994",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034534",
+    "line_name": "3号线",
+    "station_id": "310100025685025",
+    "station_name": "上海南站",
+    "longitude": 121.430041,
+    "latitude": 31.154579,
+    "poi_id": "BV10025073",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024546017",
+    "station_name": "宜山路",
+    "longitude": 121.427194,
+    "latitude": 31.186717,
+    "poi_id": "BV10039880",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100027703009",
+    "station_name": "虹桥路",
+    "longitude": 121.420814,
+    "latitude": 31.197524,
+    "poi_id": "BV10039972",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034534024",
+    "station_name": "延安西路",
+    "longitude": 121.417062,
+    "latitude": 31.209616,
+    "poi_id": "BV10039992",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100025693016",
+    "station_name": "中山公园",
+    "longitude": 121.415773,
+    "latitude": 31.217948,
+    "poi_id": "BV10025398",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024524002",
+    "station_name": "金沙江路",
+    "longitude": 121.413201,
+    "latitude": 31.232147,
+    "poi_id": "BV10039776",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024518019",
+    "station_name": "曹杨路",
+    "longitude": 121.417701,
+    "latitude": 31.239302,
+    "poi_id": "BV10039804",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024542019",
+    "station_name": "镇坪路",
+    "longitude": 121.429779,
+    "latitude": 31.246369,
+    "poi_id": "BV10039864",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034534019",
+    "station_name": "中潭路",
+    "longitude": 121.441001,
+    "latitude": 31.254568,
+    "poi_id": "BV10039991",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100025685014",
+    "station_name": "上海火车站",
+    "longitude": 121.457939,
+    "latitude": 31.249632,
+    "poi_id": "BV10024601",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034534017",
+    "station_name": "宝山路",
+    "longitude": 121.476298,
+    "latitude": 31.251523,
+    "poi_id": "BV10039990",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100027703019",
+    "station_name": "海伦路",
+    "longitude": 121.488697,
+    "latitude": 31.259303,
+    "poi_id": "BV10039975",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536013",
+    "station_name": "临平路",
+    "longitude": 121.500696,
+    "latitude": 31.260874,
+    "poi_id": "BV10039995",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100025711013",
+    "station_name": "大连路",
+    "longitude": 121.513088,
+    "latitude": 31.257938,
+    "poi_id": "BV10039931",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536015",
+    "station_name": "杨树浦路",
+    "longitude": 121.51721,
+    "latitude": 31.251935,
+    "poi_id": "BV10039996",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100027599021",
+    "station_name": "浦东大道",
+    "longitude": 121.519302,
+    "latitude": 31.240308,
+    "poi_id": "BV10039950",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024540013",
+    "station_name": "世纪大道",
+    "longitude": 121.527213,
+    "latitude": 31.228682,
+    "poi_id": "BV10039835",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536018",
+    "station_name": "向城路",
+    "longitude": 121.53208,
+    "latitude": 31.222285,
+    "poi_id": "BV09334329",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024540011",
+    "station_name": "蓝村路",
+    "longitude": 121.527627,
+    "latitude": 31.211672,
+    "poi_id": "BV10039833",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536020",
+    "station_name": "塘桥",
+    "longitude": 121.51869,
+    "latitude": 31.209762,
+    "poi_id": "BV10034167",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536021",
+    "station_name": "南浦大桥",
+    "longitude": 121.499725,
+    "latitude": 31.208504,
+    "poi_id": "BV10025227",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100025709020",
+    "station_name": "西藏南路",
+    "longitude": 121.489555,
+    "latitude": 31.201967,
+    "poi_id": "BV10039916",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536023",
+    "station_name": "鲁班路",
+    "longitude": 121.475148,
+    "latitude": 31.199221,
+    "poi_id": "BV10039997",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100025711022",
+    "station_name": "大木桥路",
+    "longitude": 121.463278,
+    "latitude": 31.194057,
+    "poi_id": "BV10039940",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100024542013",
+    "station_name": "东安路",
+    "longitude": 121.454897,
+    "latitude": 31.190819,
+    "poi_id": "BV10039860",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100034536026",
+    "station_name": "上海体育场",
+    "longitude": 121.443529,
+    "latitude": 31.185605,
+    "poi_id": "BV10024951",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034536",
+    "line_name": "4号线",
+    "station_id": "310100025685023",
+    "station_name": "上海体育馆",
+    "longitude": 121.437423,
+    "latitude": 31.182813,
+    "poi_id": "BV10026004",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100025685029",
+    "station_name": "莘庄",
+    "longitude": 121.385373,
+    "latitude": 31.111152,
+    "poi_id": "BV10025001",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538014",
+    "station_name": "春申路",
+    "longitude": 121.385818,
+    "latitude": 31.09825,
+    "poi_id": "BV10039998",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538015",
+    "station_name": "银都路",
+    "longitude": 121.390264,
+    "latitude": 31.089345,
+    "poi_id": "BV10039999",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538016",
+    "station_name": "颛桥",
+    "longitude": 121.401868,
+    "latitude": 31.067013,
+    "poi_id": "BV10026120",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538017",
+    "station_name": "北桥",
+    "longitude": 121.410054,
+    "latitude": 31.045112,
+    "poi_id": "BV10026118",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538018",
+    "station_name": "剑川路",
+    "longitude": 121.416582,
+    "latitude": 31.026483,
+    "poi_id": "BV10040000",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538008",
+    "station_name": "东川路",
+    "longitude": 121.419901,
+    "latitude": 31.018197,
+    "poi_id": "BV10028337",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538009",
+    "station_name": "金平路",
+    "longitude": 121.410186,
+    "latitude": 31.011282,
+    "poi_id": "BV10040001",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538010",
+    "station_name": "华宁路",
+    "longitude": 121.395255,
+    "latitude": 31.007467,
+    "poi_id": "BV10040002",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538011",
+    "station_name": "文井路",
+    "longitude": 121.380775,
+    "latitude": 31.003597,
+    "poi_id": "BV10040003",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100034538",
+    "line_name": "5号线",
+    "station_id": "310100034538012",
+    "station_name": "闵行开发区",
+    "longitude": 121.369712,
+    "latitude": 31.000627,
+    "poi_id": "BV10040004",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100025685029",
+    "station_name": "莘庄",
+    "longitude": 121.385373,
+    "latitude": 31.111152,
+    "poi_id": "BV10025001",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100034538014",
+    "station_name": "春申路",
+    "longitude": 121.385818,
+    "latitude": 31.09825,
+    "poi_id": "BV10039998",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100034538015",
+    "station_name": "银都路",
+    "longitude": 121.390264,
+    "latitude": 31.089345,
+    "poi_id": "BV10039999",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100034538016",
+    "station_name": "颛桥",
+    "longitude": 121.401868,
+    "latitude": 31.067013,
+    "poi_id": "BV10026120",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100034538017",
+    "station_name": "北桥",
+    "longitude": 121.410054,
+    "latitude": 31.045112,
+    "poi_id": "BV10026118",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100034538018",
+    "station_name": "剑川路",
+    "longitude": 121.416582,
+    "latitude": 31.026483,
+    "poi_id": "BV10040000",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "310100034538008",
+    "station_name": "东川路",
+    "longitude": 121.419901,
+    "latitude": 31.018197,
+    "poi_id": "BV10028337",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516002",
+    "station_name": "江川路",
+    "longitude": 121.423474,
+    "latitude": 31.005428,
+    "poi_id": "BV10717293",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516003",
+    "station_name": "西渡",
+    "longitude": 121.432441,
+    "latitude": 30.98935,
+    "poi_id": "BV10717290",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516004",
+    "station_name": "萧塘",
+    "longitude": 121.441857,
+    "latitude": 30.965888,
+    "poi_id": "BV10717297",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516005",
+    "station_name": "奉浦大道",
+    "longitude": 121.448984,
+    "latitude": 30.942055,
+    "poi_id": "BV10717294",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516006",
+    "station_name": "环城东路",
+    "longitude": 121.463204,
+    "latitude": 30.931168,
+    "poi_id": "BV10717295",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516007",
+    "station_name": "望园路",
+    "longitude": 121.48358,
+    "latitude": 30.93194,
+    "poi_id": "BV10717291",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516008",
+    "station_name": "金海湖",
+    "longitude": 121.492506,
+    "latitude": 30.928805,
+    "poi_id": "BV10717289",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059516",
+    "line_name": "5号线",
+    "station_id": "900000059516009",
+    "station_name": "奉贤新城",
+    "longitude": 121.49629,
+    "latitude": 30.913916,
+    "poi_id": "BV10717296",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024518028",
+    "station_name": "东方体育中心",
+    "longitude": 121.480304,
+    "latitude": 31.153366,
+    "poi_id": "BV10032522",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540003",
+    "station_name": "灵岩南路",
+    "longitude": 121.495295,
+    "latitude": 31.148665,
+    "poi_id": "BV10039827",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540004",
+    "station_name": "上南路",
+    "longitude": 121.506447,
+    "latitude": 31.14882,
+    "poi_id": "BV10039828",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540005",
+    "station_name": "华夏西路",
+    "longitude": 121.514539,
+    "latitude": 31.149878,
+    "poi_id": "BV10039829",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540006",
+    "station_name": "高青路",
+    "longitude": 121.515787,
+    "latitude": 31.159907,
+    "poi_id": "BV10039830",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024524030",
+    "station_name": "东明路",
+    "longitude": 121.510868,
+    "latitude": 31.172646,
+    "poi_id": "BV10039787",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540008",
+    "station_name": "高科西路",
+    "longitude": 121.509845,
+    "latitude": 31.185761,
+    "poi_id": "BV10025916",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540009",
+    "station_name": "临沂新村",
+    "longitude": 121.516695,
+    "latitude": 31.193202,
+    "poi_id": "BV10039831",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540010",
+    "station_name": "上海儿童医学中心",
+    "longitude": 121.523482,
+    "latitude": 31.203277,
+    "poi_id": "BV10039832",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540011",
+    "station_name": "蓝村路",
+    "longitude": 121.527627,
+    "latitude": 31.211672,
+    "poi_id": "BV10039833",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540012",
+    "station_name": "浦电路",
+    "longitude": 121.529351,
+    "latitude": 31.220154,
+    "poi_id": "BV10426327",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540013",
+    "station_name": "世纪大道",
+    "longitude": 121.527213,
+    "latitude": 31.228682,
+    "poi_id": "BV10039835",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540014",
+    "station_name": "源深体育中心",
+    "longitude": 121.534642,
+    "latitude": 31.233004,
+    "poi_id": "BV10039836",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540015",
+    "station_name": "民生路",
+    "longitude": 121.543527,
+    "latitude": 31.235851,
+    "poi_id": "BV10039837",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540016",
+    "station_name": "北洋泾路",
+    "longitude": 121.552314,
+    "latitude": 31.239145,
+    "poi_id": "BV10039838",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540017",
+    "station_name": "德平路",
+    "longitude": 121.564237,
+    "latitude": 31.2454,
+    "poi_id": "BV10039839",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540018",
+    "station_name": "云山路",
+    "longitude": 121.571153,
+    "latitude": 31.250969,
+    "poi_id": "BV10039840",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540019",
+    "station_name": "金桥路",
+    "longitude": 121.581817,
+    "latitude": 31.257084,
+    "poi_id": "BV10039841",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540020",
+    "station_name": "博兴路",
+    "longitude": 121.586689,
+    "latitude": 31.26352,
+    "poi_id": "BV10031099",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540021",
+    "station_name": "五莲路",
+    "longitude": 121.587866,
+    "latitude": 31.272025,
+    "poi_id": "BV10039842",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540022",
+    "station_name": "巨峰路",
+    "longitude": 121.588365,
+    "latitude": 31.280684,
+    "poi_id": "BV10039843",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540023",
+    "station_name": "东靖路",
+    "longitude": 121.588736,
+    "latitude": 31.290684,
+    "poi_id": "BV10039844",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540024",
+    "station_name": "五洲大道",
+    "longitude": 121.589212,
+    "latitude": 31.302569,
+    "poi_id": "BV10039845",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540025",
+    "station_name": "洲海路",
+    "longitude": 121.589396,
+    "latitude": 31.312229,
+    "poi_id": "BV10039846",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540026",
+    "station_name": "外高桥保税区南",
+    "longitude": 121.601963,
+    "latitude": 31.321578,
+    "poi_id": "BV10030681",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540027",
+    "station_name": "航津路",
+    "longitude": 121.593974,
+    "latitude": 31.335371,
+    "poi_id": "BV10039847",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540028",
+    "station_name": "外高桥保税区北",
+    "longitude": 121.586926,
+    "latitude": 31.347802,
+    "poi_id": "BV10039848",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024540",
+    "line_name": "6号线",
+    "station_id": "310100024540029",
+    "station_name": "港城路",
+    "longitude": 121.575017,
+    "latitude": 31.353223,
+    "poi_id": "BV10039849",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542002",
+    "station_name": "花木路",
+    "longitude": 121.562754,
+    "latitude": 31.211212,
+    "poi_id": "BV10039850",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024526014",
+    "station_name": "龙阳路",
+    "longitude": 121.557634,
+    "latitude": 31.203575,
+    "poi_id": "BV10039851",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542004",
+    "station_name": "芳华路",
+    "longitude": 121.550115,
+    "latitude": 31.19311,
+    "poi_id": "BV10039853",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542005",
+    "station_name": "锦绣路",
+    "longitude": 121.540041,
+    "latitude": 31.187592,
+    "poi_id": "BV10039854",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542006",
+    "station_name": "杨高南路",
+    "longitude": 121.524539,
+    "latitude": 31.187613,
+    "poi_id": "BV10039855",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024540008",
+    "station_name": "高科西路",
+    "longitude": 121.509845,
+    "latitude": 31.185761,
+    "poi_id": "BV10025916",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542008",
+    "station_name": "云台路",
+    "longitude": 121.500439,
+    "latitude": 31.182212,
+    "poi_id": "BV10039856",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542009",
+    "station_name": "耀华路",
+    "longitude": 121.494605,
+    "latitude": 31.178513,
+    "poi_id": "BV10039857",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024524032",
+    "station_name": "长清路",
+    "longitude": 121.487775,
+    "latitude": 31.174452,
+    "poi_id": "BV10039786",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542011",
+    "station_name": "后滩",
+    "longitude": 121.473756,
+    "latitude": 31.171918,
+    "poi_id": "BV10039858",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542012",
+    "station_name": "龙华中路",
+    "longitude": 121.457064,
+    "latitude": 31.184379,
+    "poi_id": "BV10039859",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542013",
+    "station_name": "东安路",
+    "longitude": 121.454897,
+    "latitude": 31.190819,
+    "poi_id": "BV10039860",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542014",
+    "station_name": "肇嘉浜路",
+    "longitude": 121.450212,
+    "latitude": 31.199436,
+    "poi_id": "BV10039861",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542015",
+    "station_name": "常熟路",
+    "longitude": 121.449141,
+    "latitude": 31.213524,
+    "poi_id": "BV10039862",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542016",
+    "station_name": "静安寺",
+    "longitude": 121.446533,
+    "latitude": 31.223231,
+    "poi_id": "BV10025485",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542017",
+    "station_name": "昌平路",
+    "longitude": 121.442617,
+    "latitude": 31.233749,
+    "poi_id": "BV10039863",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024524009",
+    "station_name": "长寿路",
+    "longitude": 121.438272,
+    "latitude": 31.24086,
+    "poi_id": "BV10039779",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542019",
+    "station_name": "镇坪路",
+    "longitude": 121.429779,
+    "latitude": 31.246369,
+    "poi_id": "BV10039864",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542020",
+    "station_name": "岚皋路",
+    "longitude": 121.421939,
+    "latitude": 31.256198,
+    "poi_id": "BV10039865",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542021",
+    "station_name": "新村路",
+    "longitude": 121.422668,
+    "latitude": 31.263855,
+    "poi_id": "BV10039866",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542022",
+    "station_name": "大华三路",
+    "longitude": 121.422949,
+    "latitude": 31.274047,
+    "poi_id": "BV10039867",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542023",
+    "station_name": "行知路",
+    "longitude": 121.42177,
+    "latitude": 31.284496,
+    "poi_id": "BV10039868",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542024",
+    "station_name": "大场镇",
+    "longitude": 121.416157,
+    "latitude": 31.293259,
+    "poi_id": "BV10030231",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542025",
+    "station_name": "场中路",
+    "longitude": 121.413458,
+    "latitude": 31.303682,
+    "poi_id": "BV10039869",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542026",
+    "station_name": "上大路",
+    "longitude": 121.408686,
+    "latitude": 31.314969,
+    "poi_id": "BV10039870",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542027",
+    "station_name": "南陈路",
+    "longitude": 121.398419,
+    "latitude": 31.32174,
+    "poi_id": "BV10030226",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542028",
+    "station_name": "上海大学",
+    "longitude": 121.388884,
+    "latitude": 31.320586,
+    "poi_id": "BV10024672",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542029",
+    "station_name": "祁华路",
+    "longitude": 121.373529,
+    "latitude": 31.322388,
+    "poi_id": "BV10030597",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542030",
+    "station_name": "顾村公园",
+    "longitude": 121.373009,
+    "latitude": 31.344594,
+    "poi_id": "BV10026233",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542031",
+    "station_name": "刘行",
+    "longitude": 121.362376,
+    "latitude": 31.357586,
+    "poi_id": "BV10026230",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542032",
+    "station_name": "潘广路",
+    "longitude": 121.355845,
+    "latitude": 31.364182,
+    "poi_id": "BV10039871",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542033",
+    "station_name": "罗南新村",
+    "longitude": 121.35747,
+    "latitude": 31.388831,
+    "poi_id": "BV10032414",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024542",
+    "line_name": "7号线",
+    "station_id": "310100024542034",
+    "station_name": "美兰湖",
+    "longitude": 121.349894,
+    "latitude": 31.401889,
+    "poi_id": "BV10039872",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709031",
+    "station_name": "沈杜公路",
+    "longitude": 121.512272,
+    "latitude": 31.061427,
+    "poi_id": "BV10039921",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709030",
+    "station_name": "联航路",
+    "longitude": 121.510594,
+    "latitude": 31.073567,
+    "poi_id": "BV10039920",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709029",
+    "station_name": "江月路",
+    "longitude": 121.508603,
+    "latitude": 31.084253,
+    "poi_id": "BV10039919",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709028",
+    "station_name": "浦江镇",
+    "longitude": 121.506272,
+    "latitude": 31.09659,
+    "poi_id": "BV10032461",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709027",
+    "station_name": "芦恒路",
+    "longitude": 121.49826,
+    "latitude": 31.11907,
+    "poi_id": "BV10039918",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709026",
+    "station_name": "凌兆新村",
+    "longitude": 121.489663,
+    "latitude": 31.141301,
+    "poi_id": "BV10032909",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100024518028",
+    "station_name": "东方体育中心",
+    "longitude": 121.480304,
+    "latitude": 31.153366,
+    "poi_id": "BV10032522",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709024",
+    "station_name": "杨思",
+    "longitude": 121.493443,
+    "latitude": 31.161054,
+    "poi_id": "BV10025899",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100024524031",
+    "station_name": "成山路",
+    "longitude": 121.49622,
+    "latitude": 31.170735,
+    "poi_id": "BV10025911",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100024542009",
+    "station_name": "耀华路",
+    "longitude": 121.494605,
+    "latitude": 31.178513,
+    "poi_id": "BV10039857",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709021",
+    "station_name": "中华艺术宫",
+    "longitude": 121.493626,
+    "latitude": 31.185242,
+    "poi_id": "BV10039917",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709020",
+    "station_name": "西藏南路",
+    "longitude": 121.489555,
+    "latitude": 31.201967,
+    "poi_id": "BV10039916",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100024546023",
+    "station_name": "陆家浜路",
+    "longitude": 121.486115,
+    "latitude": 31.211789,
+    "poi_id": "BV10039882",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709018",
+    "station_name": "老西门",
+    "longitude": 121.483793,
+    "latitude": 31.219014,
+    "poi_id": "BV10024873",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709017",
+    "station_name": "大世界",
+    "longitude": 121.479182,
+    "latitude": 31.227392,
+    "poi_id": "BV10039915",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025685017",
+    "station_name": "人民广场",
+    "longitude": 121.475108,
+    "latitude": 31.232687,
+    "poi_id": "BV10024678",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709015",
+    "station_name": "曲阜路",
+    "longitude": 121.471543,
+    "latitude": 31.242307,
+    "poi_id": "BV10039914",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709014",
+    "station_name": "中兴路",
+    "longitude": 121.469026,
+    "latitude": 31.253228,
+    "poi_id": "BV10028891",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709013",
+    "station_name": "西藏北路",
+    "longitude": 121.468818,
+    "latitude": 31.263453,
+    "poi_id": "BV10039913",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709012",
+    "station_name": "虹口足球场",
+    "longitude": 121.479154,
+    "latitude": 31.271392,
+    "poi_id": "BV10024871",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709011",
+    "station_name": "曲阳路",
+    "longitude": 121.491138,
+    "latitude": 31.276524,
+    "poi_id": "BV10039912",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709010",
+    "station_name": "四平路",
+    "longitude": 121.501488,
+    "latitude": 31.27488,
+    "poi_id": "BV10025270",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709009",
+    "station_name": "鞍山新村",
+    "longitude": 121.509685,
+    "latitude": 31.273242,
+    "poi_id": "BV10033521",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709008",
+    "station_name": "江浦路",
+    "longitude": 121.518379,
+    "latitude": 31.274946,
+    "poi_id": "BV10039911",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709007",
+    "station_name": "黄兴路",
+    "longitude": 121.528401,
+    "latitude": 31.278814,
+    "poi_id": "BV10039910",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709006",
+    "station_name": "延吉中路",
+    "longitude": 121.534941,
+    "latitude": 31.288543,
+    "poi_id": "BV10039909",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709005",
+    "station_name": "黄兴公园",
+    "longitude": 121.533383,
+    "latitude": 31.295389,
+    "poi_id": "BV10039908",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709004",
+    "station_name": "翔殷路",
+    "longitude": 121.531974,
+    "latitude": 31.305002,
+    "poi_id": "BV10030219",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709003",
+    "station_name": "嫩江路",
+    "longitude": 121.531954,
+    "latitude": 31.314804,
+    "poi_id": "BV10025282",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025709",
+    "line_name": "8号线",
+    "station_id": "310100025709002",
+    "station_name": "市光路",
+    "longitude": 121.531933,
+    "latitude": 31.322724,
+    "poi_id": "BV10039907",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546036",
+    "station_name": "曹路",
+    "longitude": 121.683153,
+    "latitude": 31.271297,
+    "poi_id": "BV10960991",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546035",
+    "station_name": "民雷路",
+    "longitude": 121.668125,
+    "latitude": 31.268335,
+    "poi_id": "BV10960995",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546034",
+    "station_name": "顾唐路",
+    "longitude": 121.656465,
+    "latitude": 31.266074,
+    "poi_id": "BV10960992",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546033",
+    "station_name": "金海路",
+    "longitude": 121.638629,
+    "latitude": 31.263141,
+    "poi_id": "BV10039922",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546032",
+    "station_name": "金吉路",
+    "longitude": 121.628741,
+    "latitude": 31.264304,
+    "poi_id": "BV10960989",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546031",
+    "station_name": "金桥",
+    "longitude": 121.611336,
+    "latitude": 31.26085,
+    "poi_id": "BV10960993",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546030",
+    "station_name": "台儿庄路",
+    "longitude": 121.597458,
+    "latitude": 31.252825,
+    "poi_id": "BV10960990",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546029",
+    "station_name": "蓝天路",
+    "longitude": 121.577995,
+    "latitude": 31.241028,
+    "poi_id": "BV10039954",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546028",
+    "station_name": "芳甸路",
+    "longitude": 121.558431,
+    "latitude": 31.231845,
+    "poi_id": "BV10960994",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546027",
+    "station_name": "杨高中路",
+    "longitude": 121.548664,
+    "latitude": 31.22751,
+    "poi_id": "BV10039884",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024540013",
+    "station_name": "世纪大道",
+    "longitude": 121.527213,
+    "latitude": 31.228682,
+    "poi_id": "BV10039835",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546025",
+    "station_name": "商城路",
+    "longitude": 121.516275,
+    "latitude": 31.230258,
+    "poi_id": "BV10039883",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546024",
+    "station_name": "小南门",
+    "longitude": 121.498398,
+    "latitude": 31.216866,
+    "poi_id": "BV10030206",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546023",
+    "station_name": "陆家浜路",
+    "longitude": 121.486115,
+    "latitude": 31.211789,
+    "poi_id": "BV10039882",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024524014",
+    "station_name": "马当路",
+    "longitude": 121.477256,
+    "latitude": 31.20952,
+    "poi_id": "BV10039785",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546021",
+    "station_name": "打浦桥",
+    "longitude": 121.468681,
+    "latitude": 31.206309,
+    "poi_id": "BV10025891",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546020",
+    "station_name": "嘉善路",
+    "longitude": 121.460704,
+    "latitude": 31.20282,
+    "poi_id": "BV10039881",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024542014",
+    "station_name": "肇嘉浜路",
+    "longitude": 121.450212,
+    "latitude": 31.199436,
+    "poi_id": "BV10039861",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024518023",
+    "station_name": "徐家汇",
+    "longitude": 121.436603,
+    "latitude": 31.195514,
+    "poi_id": "BV10029707",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546017",
+    "station_name": "宜山路",
+    "longitude": 121.427194,
+    "latitude": 31.186717,
+    "poi_id": "BV10039880",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546016",
+    "station_name": "桂林路",
+    "longitude": 121.418064,
+    "latitude": 31.174791,
+    "poi_id": "BV10039879",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546015",
+    "station_name": "漕河泾开发区",
+    "longitude": 121.397769,
+    "latitude": 31.170644,
+    "poi_id": "BV10025213",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546014",
+    "station_name": "合川路",
+    "longitude": 121.384772,
+    "latitude": 31.166542,
+    "poi_id": "BV10039878",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546013",
+    "station_name": "星中路",
+    "longitude": 121.368903,
+    "latitude": 31.158109,
+    "poi_id": "BV10039877",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546012",
+    "station_name": "七宝",
+    "longitude": 121.349221,
+    "latitude": 31.155287,
+    "poi_id": "BV10026129",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546011",
+    "station_name": "中春路",
+    "longitude": 121.334596,
+    "latitude": 31.149766,
+    "poi_id": "BV10039876",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546010",
+    "station_name": "九亭",
+    "longitude": 121.319423,
+    "latitude": 31.137252,
+    "poi_id": "BV10039875",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546009",
+    "station_name": "泗泾",
+    "longitude": 121.260247,
+    "latitude": 31.118272,
+    "poi_id": "BV10032803",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546008",
+    "station_name": "佘山",
+    "longitude": 121.229686,
+    "latitude": 31.104097,
+    "poi_id": "BV10035054",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546007",
+    "station_name": "洞泾",
+    "longitude": 121.230473,
+    "latitude": 31.084492,
+    "poi_id": "BV10027857",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546006",
+    "station_name": "松江大学城",
+    "longitude": 121.232577,
+    "latitude": 31.053984,
+    "poi_id": "BV10027922",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546005",
+    "station_name": "松江新城",
+    "longitude": 121.230739,
+    "latitude": 31.030295,
+    "poi_id": "BV10039874",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546004",
+    "station_name": "松江体育中心",
+    "longitude": 121.230546,
+    "latitude": 31.016006,
+    "poi_id": "BV10039873",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546003",
+    "station_name": "醉白池",
+    "longitude": 121.229361,
+    "latitude": 31.001125,
+    "poi_id": "BV10037928",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024546",
+    "line_name": "9号线",
+    "station_id": "310100024546002",
+    "station_name": "上海松江站",
+    "longitude": 121.230884,
+    "latitude": 30.984818,
+    "poi_id": "BV09334322",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703034",
+    "station_name": "基隆路",
+    "longitude": 121.590411,
+    "latitude": 31.351311,
+    "poi_id": "BV10854614",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100024540029",
+    "station_name": "港城路",
+    "longitude": 121.575017,
+    "latitude": 31.353223,
+    "poi_id": "BV10039849",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703032",
+    "station_name": "高桥",
+    "longitude": 121.562971,
+    "latitude": 31.352622,
+    "poi_id": "BV10854617",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703031",
+    "station_name": "高桥西",
+    "longitude": 121.54928,
+    "latitude": 31.351489,
+    "poi_id": "BV10854615",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703030",
+    "station_name": "双江路",
+    "longitude": 121.539425,
+    "latitude": 31.353601,
+    "poi_id": "BV10854616",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703029",
+    "station_name": "国帆路",
+    "longitude": 121.513168,
+    "latitude": 31.339548,
+    "poi_id": "BV10854613",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703028",
+    "station_name": "新江湾城",
+    "longitude": 121.506951,
+    "latitude": 31.328496,
+    "poi_id": "BV10039979",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703027",
+    "station_name": "殷高东路",
+    "longitude": 121.506797,
+    "latitude": 31.321768,
+    "poi_id": "BV10039978",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703026",
+    "station_name": "三门路",
+    "longitude": 121.50834,
+    "latitude": 31.313214,
+    "poi_id": "BV10039977",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703025",
+    "station_name": "江湾体育场",
+    "longitude": 121.513314,
+    "latitude": 31.304293,
+    "poi_id": "BV10039976",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703024",
+    "station_name": "五角场",
+    "longitude": 121.514632,
+    "latitude": 31.298043,
+    "poi_id": "BV10030403",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703023",
+    "station_name": "国权路",
+    "longitude": 121.510024,
+    "latitude": 31.289276,
+    "poi_id": "BV10025272",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703022",
+    "station_name": "同济大学",
+    "longitude": 121.506357,
+    "latitude": 31.282086,
+    "poi_id": "BV10024697",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100025709010",
+    "station_name": "四平路",
+    "longitude": 121.501488,
+    "latitude": 31.27488,
+    "poi_id": "BV10025270",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703020",
+    "station_name": "邮电新村",
+    "longitude": 121.494247,
+    "latitude": 31.268431,
+    "poi_id": "BV10024783",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703019",
+    "station_name": "海伦路",
+    "longitude": 121.488697,
+    "latitude": 31.259303,
+    "poi_id": "BV10039975",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703018",
+    "station_name": "四川北路",
+    "longitude": 121.484208,
+    "latitude": 31.252035,
+    "poi_id": "BV10039974",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100025711016",
+    "station_name": "天潼路",
+    "longitude": 121.482321,
+    "latitude": 31.243815,
+    "poi_id": "BV10039933",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100025693011",
+    "station_name": "南京东路",
+    "longitude": 121.484628,
+    "latitude": 31.238101,
+    "poi_id": "BV10039900",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027599018",
+    "station_name": "豫园",
+    "longitude": 121.487426,
+    "latitude": 31.228005,
+    "poi_id": "BV10030419",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100025709018",
+    "station_name": "老西门",
+    "longitude": 121.483793,
+    "latitude": 31.219014,
+    "poi_id": "BV10024873",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100024524015",
+    "station_name": "一大会址·新天地",
+    "longitude": 121.475182,
+    "latitude": 31.216367,
+    "poi_id": "BV10039784",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100025685019",
+    "station_name": "陕西南路",
+    "longitude": 121.458741,
+    "latitude": 31.215148,
+    "poi_id": "BV10039893",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703011",
+    "station_name": "上海图书馆",
+    "longitude": 121.444363,
+    "latitude": 31.20796,
+    "poi_id": "BV10039973",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100024518022",
+    "station_name": "交通大学",
+    "longitude": 121.435253,
+    "latitude": 31.202213,
+    "poi_id": "BV10025307",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703009",
+    "station_name": "虹桥路",
+    "longitude": 121.420814,
+    "latitude": 31.197524,
+    "poi_id": "BV10039972",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703008",
+    "station_name": "宋园路",
+    "longitude": 121.41208,
+    "latitude": 31.19654,
+    "poi_id": "BV10039971",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703007",
+    "station_name": "伊犁路",
+    "longitude": 121.403899,
+    "latitude": 31.19888,
+    "poi_id": "BV10039970",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703006",
+    "station_name": "水城路",
+    "longitude": 121.392259,
+    "latitude": 31.199482,
+    "poi_id": "BV10039969",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703005",
+    "station_name": "龙溪路",
+    "longitude": 121.380034,
+    "latitude": 31.1944,
+    "poi_id": "BV10039968",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703004",
+    "station_name": "龙柏新村",
+    "longitude": 121.37048,
+    "latitude": 31.176882,
+    "poi_id": "BV10025472",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703003",
+    "station_name": "紫藤路",
+    "longitude": 121.364831,
+    "latitude": 31.169674,
+    "poi_id": "BV10039967",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027703",
+    "line_name": "10号线",
+    "station_id": "310100027703002",
+    "station_name": "航中路",
+    "longitude": 121.355336,
+    "latitude": 31.165417,
+    "poi_id": "BV10039966",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703034",
+    "station_name": "基隆路",
+    "longitude": 121.590411,
+    "latitude": 31.351311,
+    "poi_id": "BV10854614",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100024540029",
+    "station_name": "港城路",
+    "longitude": 121.575017,
+    "latitude": 31.353223,
+    "poi_id": "BV10039849",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703032",
+    "station_name": "高桥",
+    "longitude": 121.562971,
+    "latitude": 31.352622,
+    "poi_id": "BV10854617",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703031",
+    "station_name": "高桥西",
+    "longitude": 121.54928,
+    "latitude": 31.351489,
+    "poi_id": "BV10854615",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703030",
+    "station_name": "双江路",
+    "longitude": 121.539425,
+    "latitude": 31.353601,
+    "poi_id": "BV10854616",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703029",
+    "station_name": "国帆路",
+    "longitude": 121.513168,
+    "latitude": 31.339548,
+    "poi_id": "BV10854613",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703028",
+    "station_name": "新江湾城",
+    "longitude": 121.506951,
+    "latitude": 31.328496,
+    "poi_id": "BV10039979",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703027",
+    "station_name": "殷高东路",
+    "longitude": 121.506797,
+    "latitude": 31.321768,
+    "poi_id": "BV10039978",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703026",
+    "station_name": "三门路",
+    "longitude": 121.50834,
+    "latitude": 31.313214,
+    "poi_id": "BV10039977",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703025",
+    "station_name": "江湾体育场",
+    "longitude": 121.513314,
+    "latitude": 31.304293,
+    "poi_id": "BV10039976",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703024",
+    "station_name": "五角场",
+    "longitude": 121.514632,
+    "latitude": 31.298043,
+    "poi_id": "BV10030403",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703023",
+    "station_name": "国权路",
+    "longitude": 121.510024,
+    "latitude": 31.289276,
+    "poi_id": "BV10025272",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703022",
+    "station_name": "同济大学",
+    "longitude": 121.506357,
+    "latitude": 31.282086,
+    "poi_id": "BV10024697",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025709010",
+    "station_name": "四平路",
+    "longitude": 121.501488,
+    "latitude": 31.27488,
+    "poi_id": "BV10025270",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703020",
+    "station_name": "邮电新村",
+    "longitude": 121.494247,
+    "latitude": 31.268431,
+    "poi_id": "BV10024783",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703019",
+    "station_name": "海伦路",
+    "longitude": 121.488697,
+    "latitude": 31.259303,
+    "poi_id": "BV10039975",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703018",
+    "station_name": "四川北路",
+    "longitude": 121.484208,
+    "latitude": 31.252035,
+    "poi_id": "BV10039974",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025711016",
+    "station_name": "天潼路",
+    "longitude": 121.482321,
+    "latitude": 31.243815,
+    "poi_id": "BV10039933",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025693011",
+    "station_name": "南京东路",
+    "longitude": 121.484628,
+    "latitude": 31.238101,
+    "poi_id": "BV10039900",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027599018",
+    "station_name": "豫园",
+    "longitude": 121.487426,
+    "latitude": 31.228005,
+    "poi_id": "BV10030419",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025709018",
+    "station_name": "老西门",
+    "longitude": 121.483793,
+    "latitude": 31.219014,
+    "poi_id": "BV10024873",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100024524015",
+    "station_name": "一大会址·新天地",
+    "longitude": 121.475182,
+    "latitude": 31.216367,
+    "poi_id": "BV10039784",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025685019",
+    "station_name": "陕西南路",
+    "longitude": 121.458741,
+    "latitude": 31.215148,
+    "poi_id": "BV10039893",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703011",
+    "station_name": "上海图书馆",
+    "longitude": 121.444363,
+    "latitude": 31.20796,
+    "poi_id": "BV10039973",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100024518022",
+    "station_name": "交通大学",
+    "longitude": 121.435253,
+    "latitude": 31.202213,
+    "poi_id": "BV10025307",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703009",
+    "station_name": "虹桥路",
+    "longitude": 121.420814,
+    "latitude": 31.197524,
+    "poi_id": "BV10039972",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703008",
+    "station_name": "宋园路",
+    "longitude": 121.41208,
+    "latitude": 31.19654,
+    "poi_id": "BV10039971",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703007",
+    "station_name": "伊犁路",
+    "longitude": 121.403899,
+    "latitude": 31.19888,
+    "poi_id": "BV10039970",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703006",
+    "station_name": "水城路",
+    "longitude": 121.392259,
+    "latitude": 31.199482,
+    "poi_id": "BV10039969",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027703005",
+    "station_name": "龙溪路",
+    "longitude": 121.380034,
+    "latitude": 31.1944,
+    "poi_id": "BV10039968",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027704005",
+    "station_name": "上海动物园",
+    "longitude": 121.368137,
+    "latitude": 31.190246,
+    "poi_id": "BV10025388",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100027704004",
+    "station_name": "虹桥1号航站楼",
+    "longitude": 121.347371,
+    "latitude": 31.191363,
+    "poi_id": "BV10039980",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025693021",
+    "station_name": "虹桥2号航站楼",
+    "longitude": 121.324443,
+    "latitude": 31.194055,
+    "poi_id": "BV10039904",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027704",
+    "line_name": "10号线",
+    "station_id": "310100025693022",
+    "station_name": "虹桥火车站",
+    "longitude": 121.31895,
+    "latitude": 31.194022,
+    "poi_id": "BV10039905",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100027601002",
+    "station_name": "嘉定北",
+    "longitude": 121.23735,
+    "latitude": 31.391549,
+    "poi_id": "BV10039960",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100027601003",
+    "station_name": "嘉定西",
+    "longitude": 121.227855,
+    "latitude": 31.377107,
+    "poi_id": "BV10039961",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100027601004",
+    "station_name": "白银路",
+    "longitude": 121.24535,
+    "latitude": 31.345359,
+    "poi_id": "BV10039962",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518009",
+    "station_name": "嘉定新城",
+    "longitude": 121.254294,
+    "latitude": 31.330062,
+    "poi_id": "BV10039612",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518010",
+    "station_name": "马陆",
+    "longitude": 121.276906,
+    "latitude": 31.319675,
+    "poi_id": "BV10031076",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518037",
+    "station_name": "陈翔公路",
+    "longitude": 121.306787,
+    "latitude": 31.306484,
+    "poi_id": "BV11277021",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518011",
+    "station_name": "南翔",
+    "longitude": 121.323141,
+    "latitude": 31.296952,
+    "poi_id": "BV10039799",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518012",
+    "station_name": "桃浦新村",
+    "longitude": 121.349623,
+    "latitude": 31.281603,
+    "poi_id": "BV10025258",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518013",
+    "station_name": "武威路",
+    "longitude": 121.364678,
+    "latitude": 31.276646,
+    "poi_id": "BV10039800",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518014",
+    "station_name": "祁连山路",
+    "longitude": 121.376035,
+    "latitude": 31.27165,
+    "poi_id": "BV10030224",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518015",
+    "station_name": "李子园",
+    "longitude": 121.389969,
+    "latitude": 31.26902,
+    "poi_id": "BV10039801",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518016",
+    "station_name": "上海西站",
+    "longitude": 121.400926,
+    "latitude": 31.262693,
+    "poi_id": "BV10024610",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518017",
+    "station_name": "真如",
+    "longitude": 121.407219,
+    "latitude": 31.250767,
+    "poi_id": "BV10039802",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518018",
+    "station_name": "枫桥路",
+    "longitude": 121.411402,
+    "latitude": 31.24185,
+    "poi_id": "BV10039803",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518019",
+    "station_name": "曹杨路",
+    "longitude": 121.417701,
+    "latitude": 31.239302,
+    "poi_id": "BV10039804",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518020",
+    "station_name": "隆德路",
+    "longitude": 121.423576,
+    "latitude": 31.230509,
+    "poi_id": "BV10039777",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518021",
+    "station_name": "江苏路",
+    "longitude": 121.430642,
+    "latitude": 31.220411,
+    "poi_id": "BV10039805",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518022",
+    "station_name": "交通大学",
+    "longitude": 121.435253,
+    "latitude": 31.202213,
+    "poi_id": "BV10025307",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518023",
+    "station_name": "徐家汇",
+    "longitude": 121.436603,
+    "latitude": 31.195514,
+    "poi_id": "BV10029707",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518024",
+    "station_name": "上海游泳馆",
+    "longitude": 121.441424,
+    "latitude": 31.179123,
+    "poi_id": "BV10024941",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518025",
+    "station_name": "龙华",
+    "longitude": 121.452958,
+    "latitude": 31.172672,
+    "poi_id": "BV10024943",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518026",
+    "station_name": "云锦路",
+    "longitude": 121.458519,
+    "latitude": 31.166488,
+    "poi_id": "BV10039806",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518027",
+    "station_name": "龙耀路",
+    "longitude": 121.459702,
+    "latitude": 31.15972,
+    "poi_id": "BV10039807",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518028",
+    "station_name": "东方体育中心",
+    "longitude": 121.480304,
+    "latitude": 31.153366,
+    "poi_id": "BV10032522",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518029",
+    "station_name": "三林",
+    "longitude": 121.511796,
+    "latitude": 31.143224,
+    "poi_id": "BV10028225",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518030",
+    "station_name": "三林东",
+    "longitude": 121.522999,
+    "latitude": 31.146459,
+    "poi_id": "BV10039963",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518031",
+    "station_name": "浦三路",
+    "longitude": 121.539005,
+    "latitude": 31.150861,
+    "poi_id": "BV10039964",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518038",
+    "station_name": "康恒路",
+    "longitude": 121.553699,
+    "latitude": 31.154229,
+    "poi_id": "BV09303995",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518032",
+    "station_name": "御桥",
+    "longitude": 121.570914,
+    "latitude": 31.158131,
+    "poi_id": "BV10039965",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518033",
+    "station_name": "罗山路",
+    "longitude": 121.593152,
+    "latitude": 31.153259,
+    "poi_id": "BV10039818",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518034",
+    "station_name": "秀沿路",
+    "longitude": 121.59839,
+    "latitude": 31.138128,
+    "poi_id": "BV10538984",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518035",
+    "station_name": "康新公路",
+    "longitude": 121.617199,
+    "latitude": 31.130439,
+    "poi_id": "BV10538982",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027601",
+    "line_name": "11号线",
+    "station_id": "310100024518036",
+    "station_name": "迪士尼",
+    "longitude": 121.667959,
+    "latitude": 31.141263,
+    "poi_id": "BV10681608",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518036",
+    "station_name": "迪士尼",
+    "longitude": 121.667959,
+    "latitude": 31.141263,
+    "poi_id": "BV10681608",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518035",
+    "station_name": "康新公路",
+    "longitude": 121.617199,
+    "latitude": 31.130439,
+    "poi_id": "BV10538982",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518034",
+    "station_name": "秀沿路",
+    "longitude": 121.59839,
+    "latitude": 31.138128,
+    "poi_id": "BV10538984",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518033",
+    "station_name": "罗山路",
+    "longitude": 121.593152,
+    "latitude": 31.153259,
+    "poi_id": "BV10039818",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518032",
+    "station_name": "御桥",
+    "longitude": 121.570914,
+    "latitude": 31.158131,
+    "poi_id": "BV10039965",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518038",
+    "station_name": "康恒路",
+    "longitude": 121.553699,
+    "latitude": 31.154229,
+    "poi_id": "BV09303995",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518031",
+    "station_name": "浦三路",
+    "longitude": 121.539005,
+    "latitude": 31.150861,
+    "poi_id": "BV10039964",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518030",
+    "station_name": "三林东",
+    "longitude": 121.522999,
+    "latitude": 31.146459,
+    "poi_id": "BV10039963",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518029",
+    "station_name": "三林",
+    "longitude": 121.511796,
+    "latitude": 31.143224,
+    "poi_id": "BV10028225",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518028",
+    "station_name": "东方体育中心",
+    "longitude": 121.480304,
+    "latitude": 31.153366,
+    "poi_id": "BV10032522",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518027",
+    "station_name": "龙耀路",
+    "longitude": 121.459702,
+    "latitude": 31.15972,
+    "poi_id": "BV10039807",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518026",
+    "station_name": "云锦路",
+    "longitude": 121.458519,
+    "latitude": 31.166488,
+    "poi_id": "BV10039806",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518025",
+    "station_name": "龙华",
+    "longitude": 121.452958,
+    "latitude": 31.172672,
+    "poi_id": "BV10024943",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518024",
+    "station_name": "上海游泳馆",
+    "longitude": 121.441424,
+    "latitude": 31.179123,
+    "poi_id": "BV10024941",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518023",
+    "station_name": "徐家汇",
+    "longitude": 121.436603,
+    "latitude": 31.195514,
+    "poi_id": "BV10029707",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518022",
+    "station_name": "交通大学",
+    "longitude": 121.435253,
+    "latitude": 31.202213,
+    "poi_id": "BV10025307",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518021",
+    "station_name": "江苏路",
+    "longitude": 121.430642,
+    "latitude": 31.220411,
+    "poi_id": "BV10039805",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518020",
+    "station_name": "隆德路",
+    "longitude": 121.423576,
+    "latitude": 31.230509,
+    "poi_id": "BV10039777",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518019",
+    "station_name": "曹杨路",
+    "longitude": 121.417701,
+    "latitude": 31.239302,
+    "poi_id": "BV10039804",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518018",
+    "station_name": "枫桥路",
+    "longitude": 121.411402,
+    "latitude": 31.24185,
+    "poi_id": "BV10039803",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518017",
+    "station_name": "真如",
+    "longitude": 121.407219,
+    "latitude": 31.250767,
+    "poi_id": "BV10039802",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518016",
+    "station_name": "上海西站",
+    "longitude": 121.400926,
+    "latitude": 31.262693,
+    "poi_id": "BV10024610",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518015",
+    "station_name": "李子园",
+    "longitude": 121.389969,
+    "latitude": 31.26902,
+    "poi_id": "BV10039801",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518014",
+    "station_name": "祁连山路",
+    "longitude": 121.376035,
+    "latitude": 31.27165,
+    "poi_id": "BV10030224",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518013",
+    "station_name": "武威路",
+    "longitude": 121.364678,
+    "latitude": 31.276646,
+    "poi_id": "BV10039800",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518012",
+    "station_name": "桃浦新村",
+    "longitude": 121.349623,
+    "latitude": 31.281603,
+    "poi_id": "BV10025258",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518011",
+    "station_name": "南翔",
+    "longitude": 121.323141,
+    "latitude": 31.296952,
+    "poi_id": "BV10039799",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518037",
+    "station_name": "陈翔公路",
+    "longitude": 121.306787,
+    "latitude": 31.306484,
+    "poi_id": "BV11277021",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518010",
+    "station_name": "马陆",
+    "longitude": 121.276906,
+    "latitude": 31.319675,
+    "poi_id": "BV10031076",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518009",
+    "station_name": "嘉定新城",
+    "longitude": 121.254294,
+    "latitude": 31.330062,
+    "poi_id": "BV10039612",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518008",
+    "station_name": "上海赛车场",
+    "longitude": 121.226098,
+    "latitude": 31.331898,
+    "poi_id": "BV10033820",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518007",
+    "station_name": "昌吉东路",
+    "longitude": 121.200384,
+    "latitude": 31.29362,
+    "poi_id": "BV10039798",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518006",
+    "station_name": "上海汽车城",
+    "longitude": 121.180742,
+    "latitude": 31.285403,
+    "poi_id": "BV10039797",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518005",
+    "station_name": "安亭",
+    "longitude": 121.161985,
+    "latitude": 31.28849,
+    "poi_id": "BV10026750",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518004",
+    "station_name": "兆丰路",
+    "longitude": 121.150315,
+    "latitude": 31.289048,
+    "poi_id": "BV10470899",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518003",
+    "station_name": "光明路",
+    "longitude": 121.117186,
+    "latitude": 31.29621,
+    "poi_id": "BV10470893",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024518",
+    "line_name": "11号线",
+    "station_id": "310100024518002",
+    "station_name": "花桥",
+    "longitude": 121.104407,
+    "latitude": 31.29879,
+    "poi_id": "BV10470890",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711033",
+    "station_name": "七莘路",
+    "longitude": 121.362461,
+    "latitude": 31.131634,
+    "poi_id": "BV10037368",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711032",
+    "station_name": "虹莘路",
+    "longitude": 121.380349,
+    "latitude": 31.137452,
+    "poi_id": "BV10039934",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711031",
+    "station_name": "顾戴路",
+    "longitude": 121.39185,
+    "latitude": 31.140888,
+    "poi_id": "BV10039935",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711030",
+    "station_name": "东兰路",
+    "longitude": 121.391919,
+    "latitude": 31.155826,
+    "poi_id": "BV10039936",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711029",
+    "station_name": "虹梅路",
+    "longitude": 121.39725,
+    "latitude": 31.16035,
+    "poi_id": "BV10039937",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711028",
+    "station_name": "虹漕路",
+    "longitude": 121.410553,
+    "latitude": 31.164033,
+    "poi_id": "BV10607588",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711027",
+    "station_name": "桂林公园",
+    "longitude": 121.419647,
+    "latitude": 31.166985,
+    "poi_id": "BV10024842",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025685024",
+    "station_name": "漕宝路",
+    "longitude": 121.433143,
+    "latitude": 31.168344,
+    "poi_id": "BV10026584",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711025",
+    "station_name": "龙漕路",
+    "longitude": 121.444383,
+    "latitude": 31.169458,
+    "poi_id": "BV10039938",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024518025",
+    "station_name": "龙华",
+    "longitude": 121.452958,
+    "latitude": 31.172672,
+    "poi_id": "BV10024943",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024542012",
+    "station_name": "龙华中路",
+    "longitude": 121.457064,
+    "latitude": 31.184379,
+    "poi_id": "BV10039859",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711022",
+    "station_name": "大木桥路",
+    "longitude": 121.463278,
+    "latitude": 31.194057,
+    "poi_id": "BV10039940",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024546020",
+    "station_name": "嘉善路",
+    "longitude": 121.460704,
+    "latitude": 31.20282,
+    "poi_id": "BV10039881",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025685019",
+    "station_name": "陕西南路",
+    "longitude": 121.458741,
+    "latitude": 31.215148,
+    "poi_id": "BV10039893",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024524017",
+    "station_name": "南京西路",
+    "longitude": 121.459971,
+    "latitude": 31.229853,
+    "poi_id": "BV10039782",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024524019",
+    "station_name": "汉中路",
+    "longitude": 121.458699,
+    "latitude": 31.241883,
+    "poi_id": "BV10030213",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025709015",
+    "station_name": "曲阜路",
+    "longitude": 121.471543,
+    "latitude": 31.242307,
+    "poi_id": "BV10039914",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711016",
+    "station_name": "天潼路",
+    "longitude": 121.482321,
+    "latitude": 31.243815,
+    "poi_id": "BV10039933",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711015",
+    "station_name": "国际客运中心",
+    "longitude": 121.498158,
+    "latitude": 31.25016,
+    "poi_id": "BV10039932",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711014",
+    "station_name": "提篮桥",
+    "longitude": 121.506801,
+    "latitude": 31.253518,
+    "poi_id": "BV10024879",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711013",
+    "station_name": "大连路",
+    "longitude": 121.513088,
+    "latitude": 31.257938,
+    "poi_id": "BV10039931",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711012",
+    "station_name": "江浦公园",
+    "longitude": 121.523697,
+    "latitude": 31.26457,
+    "poi_id": "BV10039930",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711011",
+    "station_name": "宁国路",
+    "longitude": 121.532352,
+    "latitude": 31.268574,
+    "poi_id": "BV10039929",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711010",
+    "station_name": "隆昌路",
+    "longitude": 121.544692,
+    "latitude": 31.275213,
+    "poi_id": "BV10039928",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711009",
+    "station_name": "爱国路",
+    "longitude": 121.552655,
+    "latitude": 31.279788,
+    "poi_id": "BV10039927",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711008",
+    "station_name": "复兴岛",
+    "longitude": 121.561315,
+    "latitude": 31.280779,
+    "poi_id": "BV10025457",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711007",
+    "station_name": "东陆路",
+    "longitude": 121.579124,
+    "latitude": 31.282533,
+    "poi_id": "BV10039926",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024540022",
+    "station_name": "巨峰路",
+    "longitude": 121.588365,
+    "latitude": 31.280684,
+    "poi_id": "BV10039843",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711005",
+    "station_name": "杨高北路",
+    "longitude": 121.60296,
+    "latitude": 31.280092,
+    "poi_id": "BV10039925",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711004",
+    "station_name": "金京路",
+    "longitude": 121.615477,
+    "latitude": 31.279823,
+    "poi_id": "BV10039924",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100025711003",
+    "station_name": "申江路",
+    "longitude": 121.626863,
+    "latitude": 31.280231,
+    "poi_id": "BV10039923",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100025711",
+    "line_name": "12号线",
+    "station_id": "310100024546033",
+    "station_name": "金海路",
+    "longitude": 121.638629,
+    "latitude": 31.263141,
+    "poi_id": "BV10039922",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524008",
+    "station_name": "金运路",
+    "longitude": 121.319308,
+    "latitude": 31.240986,
+    "poi_id": "BV10039812",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524007",
+    "station_name": "金沙江西路",
+    "longitude": 121.335156,
+    "latitude": 31.241152,
+    "poi_id": "BV10039811",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524006",
+    "station_name": "丰庄",
+    "longitude": 121.355141,
+    "latitude": 31.242553,
+    "poi_id": "BV10030508",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524005",
+    "station_name": "祁连山南路",
+    "longitude": 121.367275,
+    "latitude": 31.237625,
+    "poi_id": "BV10039810",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524004",
+    "station_name": "真北路",
+    "longitude": 121.381948,
+    "latitude": 31.232235,
+    "poi_id": "BV10039809",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524003",
+    "station_name": "大渡河路",
+    "longitude": 121.394431,
+    "latitude": 31.231752,
+    "poi_id": "BV10039808",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524002",
+    "station_name": "金沙江路",
+    "longitude": 121.413201,
+    "latitude": 31.232147,
+    "poi_id": "BV10039776",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024518020",
+    "station_name": "隆德路",
+    "longitude": 121.423576,
+    "latitude": 31.230509,
+    "poi_id": "BV10039777",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524010",
+    "station_name": "武宁路",
+    "longitude": 121.430504,
+    "latitude": 31.234346,
+    "poi_id": "BV10039778",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524009",
+    "station_name": "长寿路",
+    "longitude": 121.438272,
+    "latitude": 31.24086,
+    "poi_id": "BV10039779",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524020",
+    "station_name": "江宁路",
+    "longitude": 121.44483,
+    "latitude": 31.244282,
+    "poi_id": "BV10039780",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524019",
+    "station_name": "汉中路",
+    "longitude": 121.458699,
+    "latitude": 31.241883,
+    "poi_id": "BV10030213",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524018",
+    "station_name": "自然博物馆",
+    "longitude": 121.462366,
+    "latitude": 31.236451,
+    "poi_id": "BV10039781",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524017",
+    "station_name": "南京西路",
+    "longitude": 121.459971,
+    "latitude": 31.229853,
+    "poi_id": "BV10039782",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524016",
+    "station_name": "淮海中路",
+    "longitude": 121.464363,
+    "latitude": 31.220056,
+    "poi_id": "BV10039783",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524015",
+    "station_name": "一大会址·新天地",
+    "longitude": 121.475182,
+    "latitude": 31.216367,
+    "poi_id": "BV10039784",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524014",
+    "station_name": "马当路",
+    "longitude": 121.477256,
+    "latitude": 31.20952,
+    "poi_id": "BV10039785",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524013",
+    "station_name": "世博会博物馆",
+    "longitude": 121.481592,
+    "latitude": 31.197572,
+    "poi_id": "BV10592246",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524012",
+    "station_name": "世博大道",
+    "longitude": 121.484313,
+    "latitude": 31.182789,
+    "poi_id": "BV10029559",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524032",
+    "station_name": "长清路",
+    "longitude": 121.487775,
+    "latitude": 31.174452,
+    "poi_id": "BV10039786",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524031",
+    "station_name": "成山路",
+    "longitude": 121.49622,
+    "latitude": 31.170735,
+    "poi_id": "BV10025911",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524030",
+    "station_name": "东明路",
+    "longitude": 121.510868,
+    "latitude": 31.172646,
+    "poi_id": "BV10039787",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524029",
+    "station_name": "华鹏路",
+    "longitude": 121.526567,
+    "latitude": 31.176276,
+    "poi_id": "BV10946926",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524028",
+    "station_name": "下南路",
+    "longitude": 121.540189,
+    "latitude": 31.179295,
+    "poi_id": "BV10039788",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524027",
+    "station_name": "北蔡",
+    "longitude": 121.552017,
+    "latitude": 31.180131,
+    "poi_id": "BV10029748",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524026",
+    "station_name": "陈春路",
+    "longitude": 121.558194,
+    "latitude": 31.175095,
+    "poi_id": "BV10039789",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524025",
+    "station_name": "莲溪路",
+    "longitude": 121.566414,
+    "latitude": 31.16911,
+    "poi_id": "BV10039790",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524024",
+    "station_name": "华夏中路",
+    "longitude": 121.583109,
+    "latitude": 31.175759,
+    "poi_id": "BV10039791",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524023",
+    "station_name": "中科路",
+    "longitude": 121.602465,
+    "latitude": 31.178862,
+    "poi_id": "BV10039792",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524022",
+    "station_name": "学林路",
+    "longitude": 121.614363,
+    "latitude": 31.183476,
+    "poi_id": "BV10039793",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024524",
+    "line_name": "13号线",
+    "station_id": "310100024524021",
+    "station_name": "张江路",
+    "longitude": 121.629182,
+    "latitude": 31.18913,
+    "poi_id": "BV10039794",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599002",
+    "station_name": "封浜",
+    "longitude": 121.297006,
+    "latitude": 31.267488,
+    "poi_id": "BV10026179",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599003",
+    "station_name": "乐秀路",
+    "longitude": 121.314103,
+    "latitude": 31.265363,
+    "poi_id": "BV10039941",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599004",
+    "station_name": "临洮路",
+    "longitude": 121.33086,
+    "latitude": 31.263059,
+    "poi_id": "BV10039942",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599005",
+    "station_name": "嘉怡路",
+    "longitude": 121.345697,
+    "latitude": 31.259195,
+    "poi_id": "BV10039943",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599006",
+    "station_name": "定边路",
+    "longitude": 121.362396,
+    "latitude": 31.256392,
+    "poi_id": "BV10039944",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599007",
+    "station_name": "真新新村",
+    "longitude": 121.371949,
+    "latitude": 31.255566,
+    "poi_id": "BV10039945",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599008",
+    "station_name": "真光路",
+    "longitude": 121.384162,
+    "latitude": 31.253278,
+    "poi_id": "BV10030032",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599009",
+    "station_name": "铜川路",
+    "longitude": 121.397036,
+    "latitude": 31.250733,
+    "poi_id": "BV10039946",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100024518017",
+    "station_name": "真如",
+    "longitude": 121.407219,
+    "latitude": 31.250767,
+    "poi_id": "BV10039802",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599011",
+    "station_name": "中宁路",
+    "longitude": 121.414541,
+    "latitude": 31.245059,
+    "poi_id": "BV10039947",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100024518019",
+    "station_name": "曹杨路",
+    "longitude": 121.417701,
+    "latitude": 31.239302,
+    "poi_id": "BV10039804",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100024524010",
+    "station_name": "武宁路",
+    "longitude": 121.430504,
+    "latitude": 31.234346,
+    "poi_id": "BV10039778",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599013",
+    "station_name": "武定路",
+    "longitude": 121.436157,
+    "latitude": 31.227303,
+    "poi_id": "BV10039948",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100024542016",
+    "station_name": "静安寺",
+    "longitude": 121.446533,
+    "latitude": 31.223231,
+    "poi_id": "BV10025485",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100025685018",
+    "station_name": "一大会址·黄陂南路",
+    "longitude": 121.472904,
+    "latitude": 31.223898,
+    "poi_id": "BV10039892",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100025709017",
+    "station_name": "大世界",
+    "longitude": 121.479182,
+    "latitude": 31.227392,
+    "poi_id": "BV10039915",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599018",
+    "station_name": "豫园",
+    "longitude": 121.487426,
+    "latitude": 31.228005,
+    "poi_id": "BV10030419",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100025693010",
+    "station_name": "陆家嘴",
+    "longitude": 121.502129,
+    "latitude": 31.238259,
+    "poi_id": "BV10029743",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599020",
+    "station_name": "浦东南路",
+    "longitude": 121.512412,
+    "latitude": 31.238532,
+    "poi_id": "BV10039949",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599021",
+    "station_name": "浦东大道",
+    "longitude": 121.519302,
+    "latitude": 31.240308,
+    "poi_id": "BV10039950",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599022",
+    "station_name": "源深路",
+    "longitude": 121.531016,
+    "latitude": 31.241318,
+    "poi_id": "BV10039951",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599023",
+    "station_name": "昌邑路",
+    "longitude": 121.540104,
+    "latitude": 31.24394,
+    "poi_id": "BV10039952",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599024",
+    "station_name": "歇浦路",
+    "longitude": 121.551506,
+    "latitude": 31.250728,
+    "poi_id": "BV10031172",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100024540018",
+    "station_name": "云山路",
+    "longitude": 121.571153,
+    "latitude": 31.250969,
+    "poi_id": "BV10039840",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100024546029",
+    "station_name": "蓝天路",
+    "longitude": 121.577995,
+    "latitude": 31.241028,
+    "poi_id": "BV10039954",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599028",
+    "station_name": "黄杨路",
+    "longitude": 121.591014,
+    "latitude": 31.233998,
+    "poi_id": "BV10039955",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599029",
+    "station_name": "云顺路",
+    "longitude": 121.600336,
+    "latitude": 31.237064,
+    "poi_id": "BV10039956",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599030",
+    "station_name": "浦东足球场",
+    "longitude": 121.61543,
+    "latitude": 31.241645,
+    "poi_id": "BV10039957",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599031",
+    "station_name": "金粤路",
+    "longitude": 121.629016,
+    "latitude": 31.242092,
+    "poi_id": "BV10039958",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100027599",
+    "line_name": "14号线",
+    "station_id": "310100027599032",
+    "station_name": "桂桥路",
+    "longitude": 121.635087,
+    "latitude": 31.249419,
+    "poi_id": "BV10039959",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100024542030",
+    "station_name": "顾村公园",
+    "longitude": 121.373009,
+    "latitude": 31.344594,
+    "poi_id": "BV10026233",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795002",
+    "station_name": "锦秋路",
+    "longitude": 121.381765,
+    "latitude": 31.320184,
+    "poi_id": "BV10820985",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795003",
+    "station_name": "丰翔路",
+    "longitude": 121.380872,
+    "latitude": 31.308218,
+    "poi_id": "BV10820982",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795004",
+    "station_name": "南大路",
+    "longitude": 121.380346,
+    "latitude": 31.299263,
+    "poi_id": "BV10820970",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795005",
+    "station_name": "祁安路",
+    "longitude": 121.384813,
+    "latitude": 31.291558,
+    "poi_id": "BV10820986",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795006",
+    "station_name": "古浪路",
+    "longitude": 121.392217,
+    "latitude": 31.284509,
+    "poi_id": "BV10820983",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795007",
+    "station_name": "武威东路",
+    "longitude": 121.392094,
+    "latitude": 31.275647,
+    "poi_id": "BV10820971",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100024518016",
+    "station_name": "上海西站",
+    "longitude": 121.400926,
+    "latitude": 31.262693,
+    "poi_id": "BV10024610",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100027599009",
+    "station_name": "铜川路",
+    "longitude": 121.397036,
+    "latitude": 31.250733,
+    "poi_id": "BV10039946",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795010",
+    "station_name": "梅岭北路",
+    "longitude": 121.396997,
+    "latitude": 31.243301,
+    "poi_id": "BV10820987",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100024524003",
+    "station_name": "大渡河路",
+    "longitude": 121.394431,
+    "latitude": 31.231752,
+    "poi_id": "BV10039808",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795012",
+    "station_name": "长风公园",
+    "longitude": 121.39632,
+    "latitude": 31.225254,
+    "poi_id": "BV10820974",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100025693017",
+    "station_name": "娄山关路",
+    "longitude": 121.404058,
+    "latitude": 31.211158,
+    "poi_id": "BV10039901",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795014",
+    "station_name": "红宝石路",
+    "longitude": 121.398372,
+    "latitude": 31.198863,
+    "poi_id": "BV10820978",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795015",
+    "station_name": "姚虹路",
+    "longitude": 121.406405,
+    "latitude": 31.19155,
+    "poi_id": "BV10820972",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795016",
+    "station_name": "吴中路",
+    "longitude": 121.413905,
+    "latitude": 31.184345,
+    "poi_id": "BV10820988",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100024546016",
+    "station_name": "桂林路",
+    "longitude": 121.418064,
+    "latitude": 31.174791,
+    "poi_id": "BV10039879",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100025711027",
+    "station_name": "桂林公园",
+    "longitude": 121.419647,
+    "latitude": 31.166985,
+    "poi_id": "BV10024842",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "310100025685025",
+    "station_name": "上海南站",
+    "longitude": 121.430041,
+    "latitude": 31.154579,
+    "poi_id": "BV10025073",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795020",
+    "station_name": "华东理工大学",
+    "longitude": 121.42899,
+    "latitude": 31.144257,
+    "poi_id": "BV10820973",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795021",
+    "station_name": "罗秀路",
+    "longitude": 121.435806,
+    "latitude": 31.131552,
+    "poi_id": "BV10820976",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795022",
+    "station_name": "朱梅路",
+    "longitude": 121.437804,
+    "latitude": 31.124364,
+    "poi_id": "BV10820984",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795023",
+    "station_name": "景洪路(15号线)",
+    "longitude": 121.440138,
+    "latitude": 31.113429,
+    "poi_id": "BV09334327",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795023",
+    "station_name": "景洪路(15号线)",
+    "longitude": 121.440138,
+    "latitude": 31.113429,
+    "poi_id": "BV09334327",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795024",
+    "station_name": "虹梅南路",
+    "longitude": 121.433059,
+    "latitude": 31.103839,
+    "poi_id": "BV10820980",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795025",
+    "station_name": "景西路",
+    "longitude": 121.41876,
+    "latitude": 31.099727,
+    "poi_id": "BV10820967",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795026",
+    "station_name": "曙建路",
+    "longitude": 121.417897,
+    "latitude": 31.090625,
+    "poi_id": "BV10820977",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795027",
+    "station_name": "双柏路",
+    "longitude": 121.42175,
+    "latitude": 31.083214,
+    "poi_id": "BV10820975",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795028",
+    "station_name": "元江路",
+    "longitude": 121.431901,
+    "latitude": 31.062815,
+    "poi_id": "BV10820989",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795029",
+    "station_name": "永德路",
+    "longitude": 121.443203,
+    "latitude": 31.039147,
+    "poi_id": "BV10820968",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000070795",
+    "line_name": "15号线",
+    "station_id": "900000070795030",
+    "station_name": "紫竹高新区",
+    "longitude": 121.451221,
+    "latitude": 31.02319,
+    "poi_id": "BV10820981",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526014",
+    "station_name": "龙阳路",
+    "longitude": 121.557634,
+    "latitude": 31.203575,
+    "poi_id": "BV10039851",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024524024",
+    "station_name": "华夏中路",
+    "longitude": 121.583109,
+    "latitude": 31.175759,
+    "poi_id": "BV10039791",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024518033",
+    "station_name": "罗山路",
+    "longitude": 121.593152,
+    "latitude": 31.153259,
+    "poi_id": "BV10039818",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526011",
+    "station_name": "周浦东",
+    "longitude": 121.606895,
+    "latitude": 31.110038,
+    "poi_id": "BV10033468",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526010",
+    "station_name": "鹤沙航城",
+    "longitude": 121.611239,
+    "latitude": 31.077797,
+    "poi_id": "BV10029831",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526009",
+    "station_name": "航头东",
+    "longitude": 121.617494,
+    "latitude": 31.054919,
+    "poi_id": "BV10039817",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526008",
+    "station_name": "新场",
+    "longitude": 121.64898,
+    "latitude": 31.045561,
+    "poi_id": "BV10027172",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526007",
+    "station_name": "野生动物园",
+    "longitude": 121.699218,
+    "latitude": 31.050325,
+    "poi_id": "BV10039816",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526006",
+    "station_name": "惠南",
+    "longitude": 121.761677,
+    "latitude": 31.053828,
+    "poi_id": "BV10039815",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526005",
+    "station_name": "惠南东",
+    "longitude": 121.7938,
+    "latitude": 31.026448,
+    "poi_id": "BV10039814",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526004",
+    "station_name": "书院",
+    "longitude": 121.85052,
+    "latitude": 30.959264,
+    "poi_id": "BV10027135",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526003",
+    "station_name": "临港大道",
+    "longitude": 121.910851,
+    "latitude": 30.923519,
+    "poi_id": "BV10039813",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100024526",
+    "line_name": "16号线",
+    "station_id": "310100024526002",
+    "station_name": "滴水湖",
+    "longitude": 121.929583,
+    "latitude": 30.907245,
+    "poi_id": "BV10035241",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "310100025693022",
+    "station_name": "虹桥火车站",
+    "longitude": 121.31895,
+    "latitude": 31.194022,
+    "poi_id": "BV10039905",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799012",
+    "station_name": "国家会展中心(17号线)",
+    "longitude": 121.29304,
+    "latitude": 31.191678,
+    "poi_id": "BV09334326",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799011",
+    "station_name": "蟠龙路",
+    "longitude": 121.278645,
+    "latitude": 31.186328,
+    "poi_id": "BV10538937",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799010",
+    "station_name": "徐盈路",
+    "longitude": 121.253976,
+    "latitude": 31.178101,
+    "poi_id": "BV10538936",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799009",
+    "station_name": "徐泾北城",
+    "longitude": 121.241668,
+    "latitude": 31.175518,
+    "poi_id": "BV10538938",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799008",
+    "station_name": "嘉松中路",
+    "longitude": 121.223916,
+    "latitude": 31.164099,
+    "poi_id": "BV10538930",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799007",
+    "station_name": "赵巷",
+    "longitude": 121.192279,
+    "latitude": 31.161247,
+    "poi_id": "BV10538933",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799006",
+    "station_name": "汇金路",
+    "longitude": 121.151665,
+    "latitude": 31.161221,
+    "poi_id": "BV10538940",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799005",
+    "station_name": "青浦新城",
+    "longitude": 121.12567,
+    "latitude": 31.158925,
+    "poi_id": "BV10538935",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799004",
+    "station_name": "漕盈路",
+    "longitude": 121.096889,
+    "latitude": 31.160467,
+    "poi_id": "BV10538931",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799003",
+    "station_name": "淀山湖大道",
+    "longitude": 121.082134,
+    "latitude": 31.13446,
+    "poi_id": "BV10538939",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799002",
+    "station_name": "朱家角",
+    "longitude": 121.048989,
+    "latitude": 31.100594,
+    "poi_id": "BV10538929",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799001",
+    "station_name": "东方绿舟",
+    "longitude": 121.019534,
+    "latitude": 31.098544,
+    "poi_id": "BV10538934",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039799",
+    "line_name": "17号线",
+    "station_id": "900000039799014",
+    "station_name": "西岑",
+    "longitude": 120.964163,
+    "latitude": 31.070526,
+    "poi_id": "BV11592638",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100034534010",
+    "station_name": "长江南路",
+    "longitude": 121.491482,
+    "latitude": 31.332062,
+    "poi_id": "BV10039986",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773028",
+    "station_name": "殷高路",
+    "longitude": 121.49556,
+    "latitude": 31.321705,
+    "poi_id": "BV11639105",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773029",
+    "station_name": "上海财经大学",
+    "longitude": 121.496332,
+    "latitude": 31.307672,
+    "poi_id": "BV11639102",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773030",
+    "station_name": "复旦大学",
+    "longitude": 121.499529,
+    "latitude": 31.296349,
+    "poi_id": "BV11639104",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100027703023",
+    "station_name": "国权路",
+    "longitude": 121.510024,
+    "latitude": 31.289276,
+    "poi_id": "BV10025272",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773032",
+    "station_name": "抚顺路",
+    "longitude": 121.515793,
+    "latitude": 31.283664,
+    "poi_id": "BV11639103",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100025709008",
+    "station_name": "江浦路",
+    "longitude": 121.518379,
+    "latitude": 31.274946,
+    "poi_id": "BV10039911",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100025711012",
+    "station_name": "江浦公园",
+    "longitude": 121.523697,
+    "latitude": 31.26457,
+    "poi_id": "BV10039930",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773035",
+    "station_name": "平凉路",
+    "longitude": 121.526701,
+    "latitude": 31.259038,
+    "poi_id": "BV11639109",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773036",
+    "station_name": "丹阳路",
+    "longitude": 121.53116,
+    "latitude": 31.253815,
+    "poi_id": "BV11639108",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100027599023",
+    "station_name": "昌邑路",
+    "longitude": 121.540104,
+    "latitude": 31.24394,
+    "poi_id": "BV10039952",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100024540015",
+    "station_name": "民生路",
+    "longitude": 121.543527,
+    "latitude": 31.235851,
+    "poi_id": "BV10039837",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100024546027",
+    "station_name": "杨高中路",
+    "longitude": 121.548664,
+    "latitude": 31.22751,
+    "poi_id": "BV10039884",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773040",
+    "station_name": "迎春路",
+    "longitude": 121.550998,
+    "latitude": 31.221002,
+    "poi_id": "BV11639106",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100024526014",
+    "station_name": "龙阳路",
+    "longitude": 121.557634,
+    "latitude": 31.203575,
+    "poi_id": "BV10039851",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773042",
+    "station_name": "芳芯路",
+    "longitude": 121.559226,
+    "latitude": 31.191158,
+    "poi_id": "BV11639107",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773043",
+    "station_name": "北中路",
+    "longitude": 121.561355,
+    "latitude": 31.182762,
+    "poi_id": "BV11639110",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100024524025",
+    "station_name": "莲溪路",
+    "longitude": 121.566414,
+    "latitude": 31.16911,
+    "poi_id": "BV10039790",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "310100024518032",
+    "station_name": "御桥",
+    "longitude": 121.570914,
+    "latitude": 31.158131,
+    "poi_id": "BV10039965",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773020",
+    "station_name": "康桥",
+    "longitude": 121.567306,
+    "latitude": 31.134239,
+    "poi_id": "BV10718369",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773021",
+    "station_name": "周浦",
+    "longitude": 121.567613,
+    "latitude": 31.114129,
+    "poi_id": "BV10718368",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773022",
+    "station_name": "繁荣路",
+    "longitude": 121.570547,
+    "latitude": 31.102554,
+    "poi_id": "BV10718375",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773023",
+    "station_name": "沈梅路",
+    "longitude": 121.580589,
+    "latitude": 31.091115,
+    "poi_id": "BV10718374",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773024",
+    "station_name": "鹤涛路",
+    "longitude": 121.58596,
+    "latitude": 31.07186,
+    "poi_id": "BV10718367",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773025",
+    "station_name": "下沙",
+    "longitude": 121.588988,
+    "latitude": 31.054396,
+    "poi_id": "BV10718377",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000059773",
+    "line_name": "18号线",
+    "station_id": "900000059773026",
+    "station_name": "航头",
+    "longitude": 121.596083,
+    "latitude": 31.037305,
+    "poi_id": "BV10718376",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100104512",
+    "line_name": "磁悬浮",
+    "station_id": "310100025693024",
+    "station_name": "浦东1号2号航站楼",
+    "longitude": 121.805591,
+    "latitude": 31.150958,
+    "poi_id": "BV09301412",
+    "is_transfer": true
+  },
+  {
+    "line_id": "310100104512",
+    "line_name": "磁悬浮",
+    "station_id": "310100024526014",
+    "station_name": "龙阳路",
+    "longitude": 121.557634,
+    "latitude": 31.203575,
+    "poi_id": "BV10039851",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039797",
+    "line_name": "浦江线",
+    "station_id": "310100025709031",
+    "station_name": "沈杜公路",
+    "longitude": 121.512272,
+    "latitude": 31.061427,
+    "poi_id": "BV10039921",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039797",
+    "line_name": "浦江线",
+    "station_id": "900000039797005",
+    "station_name": "三鲁公路",
+    "longitude": 121.527389,
+    "latitude": 31.056108,
+    "poi_id": "BV10538971",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039797",
+    "line_name": "浦江线",
+    "station_id": "900000039797004",
+    "station_name": "闵瑞路",
+    "longitude": 121.530323,
+    "latitude": 31.047956,
+    "poi_id": "BV10538973",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039797",
+    "line_name": "浦江线",
+    "station_id": "900000039797003",
+    "station_name": "浦航路",
+    "longitude": 121.530591,
+    "latitude": 31.040993,
+    "poi_id": "BV10538974",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039797",
+    "line_name": "浦江线",
+    "station_id": "900000039797002",
+    "station_name": "东城一路",
+    "longitude": 121.532093,
+    "latitude": 31.03039,
+    "poi_id": "BV10538975",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000039797",
+    "line_name": "浦江线",
+    "station_id": "900000039797001",
+    "station_name": "汇臻路",
+    "longitude": 121.524558,
+    "latitude": 31.025245,
+    "poi_id": "BV10538972",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "310100025693021",
+    "station_name": "虹桥2号航站楼",
+    "longitude": 121.324443,
+    "latitude": 31.194055,
+    "poi_id": "BV10039904",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "310100024546011",
+    "station_name": "中春路",
+    "longitude": 121.334596,
+    "latitude": 31.149766,
+    "poi_id": "BV10039876",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "900000159999003",
+    "station_name": "景洪路(市域机场线)",
+    "longitude": 121.44431,
+    "latitude": 31.109817,
+    "poi_id": "BV09368071",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "900000119999031",
+    "station_name": "三林南",
+    "longitude": 121.486854,
+    "latitude": 31.126039,
+    "poi_id": "BV11494196",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "900000159999005",
+    "station_name": "康桥东",
+    "longitude": 121.614894,
+    "latitude": 31.146808,
+    "poi_id": "BV09301415",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "900000159999006",
+    "station_name": "上海国际旅游度假区",
+    "longitude": 121.67973,
+    "latitude": 31.156182,
+    "poi_id": "BV09301413",
+    "is_transfer": true
+  },
+  {
+    "line_id": "900000159999",
+    "line_name": "市域机场线",
+    "station_id": "310100025693024",
+    "station_name": "浦东1号2号航站楼",
+    "longitude": 121.805591,
+    "latitude": 31.150958,
+    "poi_id": "BV09301412",
+    "is_transfer": true
+  }
+]

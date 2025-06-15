@@ -49,6 +49,8 @@ def save_data(data):
     with open('链家租房数据.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 ```
+详情见Spider\链家租房爬取.py
+
 ### 地铁站点数据
 <!-- ![地铁数据采集流程](media/image6.png) -->
 - **数据源**：高德地图Ajax请求逆向分析（367个站点）
